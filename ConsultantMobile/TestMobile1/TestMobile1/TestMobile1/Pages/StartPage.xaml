@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:pages="clr-namespace:TestMobile1.Pages"
+             x:Class="TestMobile1.Pages.StartPage"
+             >
+
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Image  WidthRequest="55" Source="/Resources/drawable/logo.png"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="Start" />
+            <Label TextColor="Black" Text="Консультант"
+                   HorizontalOptions="StartAndExpand"
+                   VerticalOptions="CenterAndExpand"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+
+    <!--<ContentPage.ToolbarItems>
+        
+        <ToolbarItem  IconImageSource="/Resources/drawable/logo.png" Order="Primary" Priority="0" />
+        <ToolbarItem Order="Primary" Priority="10"/>
+        <ToolbarItem Order="Primary" Priority="9"/>
+        <ToolbarItem Order="Primary" Priority="8"/>
+        <ToolbarItem Order="Primary" Priority="7"/>
+        <ToolbarItem Order="Primary" Priority="6"/>
+        <ToolbarItem Order="Primary" Priority="5"/>
+        <ToolbarItem Order="Primary" Priority="4"/>
+        <ToolbarItem Order="Primary" Priority="3"/>
+        <ToolbarItem Order="Primary" Priority="2"/>
+        <ToolbarItem Order="Primary" Priority="1"/>
+
+    </ContentPage.ToolbarItems>-->
+
+    <StackLayout>
+        <StackLayout Orientation="Horizontal"  >
+            <Label Text="Menu" FontSize="Large"
+                                               TextColor="Black"  WidthRequest="70" ></Label>
+        <!--<Label
+        Margin="20"
+        HorizontalOptions="Center"
+        FontSize="Large"
+        Text="Консультант" 
+         TextColor="Black">
+        </Label>-->
+        </StackLayout>
+        <ListView x:Name="LViewProducts"
+                  ItemSelected="LViewProducts_ItemSelected"
+                  ItemTapped="LViewProducts_ItemTapped"
+                  HasUnevenRows="True"
+                  SeparatorColor="#a55ff5" 
+                  SeparatorVisibility="None"
+            IsPullToRefreshEnabled="True"
+                  IsRefreshing="{Binding IsRefreshing}"
+                  RefreshCommand="{Binding RefreshCommand}"
+                  RefreshControlColor="#a55ff5">
+
+            <ListView.ItemTemplate>
+                <DataTemplate >
+                    <!--x:DateType="model:Product"--> 
+                    <ViewCell>
+                        <Grid Padding="10">
+                            <Frame CornerRadius="20">
+                                <StackLayout Orientation="Horizontal">
+                                    <!--<Image Source="/Resources/drawable/img_148071.png"
+                                           WidthRequest="66"/>-->
+                                    <Image Source="{Binding Photo}"
+                                           WidthRequest="66"/>
+                                    <StackLayout VerticalOptions="Center">
+                                        <Label VerticalOptions="Center"
+                                            FontSize="Large"
+                                               TextColor="Black"
+                                               Text="{Binding Name}"/>
+                                        <Label VerticalOptions="Center"
+                                               FontSize="Large"
+                                               
+                                               Text="{Binding Cost}"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center"  >
+            <!--Button Clicked="AddItem" Text="Добавить" CornerRadius="20"   />-->
+            <!--<Button Clicked="RemoveItem" Text="Удалить" CornerRadius="20"  />-->
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
+<!--<DataTemplate>
+    <ViewCell>
+        <StackLayout>
+            <Label Margin="5" FontSize="30" HorizontalOptions="Center" Text="{Binding Name}"></Label>
+
+            <Image HeightRequest="230" Source="{Binding Photo}" HorizontalOptions="FillAndExpand"></Image>
+            <Label Margin="5" FontSize="18" HorizontalOptions="Center" Text="{Binding Cost}"></Label>
+        </StackLayout>
+    </ViewCell>
+</DataTemplate>-->

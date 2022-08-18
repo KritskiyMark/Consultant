@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "U73aI83zBvxvhnDie/FLMLNr+cIaSTbaxjn7UzVqyHj/zoxJzxDk8xcKePeMqtVyaRHe/adiJDODxDkbCYyO5A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Mark\\Desktop\\Крицкий.М диплом\\ПО\\ConsultantApp\\WpfTest1\\WpfTest1\\ConsultantApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет EntityFramework. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: Microsoft Visual Studio Offline Packages",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Не удалось найти пакет EntityFramework.ru. Пакеты с таким идентификатором отсутствуют в следующих источниках пакетов: Microsoft Visual Studio Offline Packages",
+      "libraryId": "EntityFramework.ru",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}

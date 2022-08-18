@@ -1,0 +1,69 @@
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\AddAditPage.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\AddUsers.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\AutorizationPage.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\d.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\ListPage.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\PrintPage.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\Pages\StartWindow.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\ConsultantApp_Content.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\ConsultantApp_MarkupCompile.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\WpfTest1\obj\Debug\ConsultantApp_MarkupCompile.lref
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\bin\Debug\WpfTest1.exe.config
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\bin\Debug\WpfTest1.exe
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\bin\Debug\WpfTest1.pdb
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\bin\Debug\EntityFramework.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AddUsers.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AutorizationPage.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\PrintPage.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\StartWindow.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1_Content.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1_MarkupCompile.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1_MarkupCompile.lref
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\App.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AddEditPage.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AddUsers.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AdminPage.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AutorizationPage.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\HistoryPage.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\ManagerPage.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\PrintPage.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\StartWindow.baml
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1.g.resources
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1.Properties.Resources.resources
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.CopyComplete
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1.exe
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1.pdb
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\ConsultantApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AddUsers.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\AutorizationPage.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\ManagerPage.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\PrintPage.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\Pages\StartWindow.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\App.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1_Content.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1_MarkupCompile.cache
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1_MarkupCompile.lref
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1.exe
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantApp\WpfTest1\WpfTest1\obj\Debug\WpfTest1.pdb

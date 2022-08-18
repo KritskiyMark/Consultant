@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestMobile1.App">
+    <Application.Resources>
+        <!--<ResourceDictionary>
+            <Color x:Key="Primary">#a55ff5</Color>
+            </ResourceDictionary>-->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#FFBF00"></Setter>
+            <Setter Property="WidthRequest" Value="150" />
+            <Setter Property="HeightRequest" Value="{OnPlatform iOS=30, Android=40}" />
+            <Setter Property="FontSize" Value="Small" />
+            <Setter Property="CornerRadius" Value="6" />
+            <Setter Property="BorderWidth" Value="1" />
+            <Setter Property="BackgroundColor" Value="Transparent" />
+            
+            <Setter Property="HorizontalOptions" Value="Center" />
+        </Style>
+
+        <!--<Style x:Key="LabelMicro" TargetType="Label" BasedOn="{StaticResource BaseLabel}">
+            <Setter Property="FontSize" Value="Micro"/>
+        </Style>
+        <Style x:Key="LabelSmall" TargetType="Label" BasedOn="{StaticResource BaseLabel}">
+            <Setter Property="FontSize" Value="Small"/>
+        </Style>
+
+        <Style x:Key="LabelMedium" TargetType="Label" BasedOn="{StaticResource BaseLabel}">
+            <Setter Property="FontSize" Value="Medium"/>
+        </Style>
+
+        <Style x:Key="LabelLarge" TargetType="Label" BasedOn="{StaticResource BaseLabel}">
+            <Setter Property="FontSize" Value="Large"/>
+        </Style>-->
+
+
+
+
+
+    </Application.Resources>
+</Application>

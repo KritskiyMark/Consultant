@@ -1,0 +1,50 @@
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.deps.json
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.dll
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.pdb
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.AssemblyInfo.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.dll
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\refint\TestMobile1.dll
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.pdb
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\ref\TestMobile1.dll
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\StartPage.xaml.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\AppShell.xaml.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\AddEditPage.xaml.g.cs
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\Mobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\DetalisPage.xaml.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\DetalisPage.xaml.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\StartPage.xaml.g.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.AssemblyInfo.cs
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\refint\TestMobile1.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.pdb
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.deps.json
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.pdb
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mark\Desktop\Приложения\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\ref\TestMobile1.dll
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.deps.json
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.dll
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\bin\Debug\netstandard2.0\TestMobile1.pdb
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\DetalisPage.xaml.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\Pages\StartPage.xaml.g.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.AssemblyInfo.cs
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.dll
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\refint\TestMobile1.dll
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\TestMobile1.pdb
+C:\Users\Mark\Desktop\Крицкий.М диплом\ПО\ConsultantMobile\TestMobile1\TestMobile1\TestMobile1\obj\Debug\netstandard2.0\ref\TestMobile1.dll

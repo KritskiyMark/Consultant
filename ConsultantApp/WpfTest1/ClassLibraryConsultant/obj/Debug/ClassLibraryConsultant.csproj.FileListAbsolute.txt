@@ -1,0 +1,12 @@
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\ClassLibraryConsultant\bin\Debug\ClassLibraryConsultant.dll
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\ClassLibraryConsultant\bin\Debug\ClassLibraryConsultant.pdb
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.dll
+C:\Users\Mark\Desktop\Диплом\Тестовые версии\WPF\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.pdb
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\ClassLibraryConsultant\bin\Debug\ClassLibraryConsultant.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\ClassLibraryConsultant\bin\Debug\ClassLibraryConsultant.pdb
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.dll
+C:\Users\Mark\Desktop\Приложения\ConsultantApp\WpfTest1\ClassLibraryConsultant\obj\Debug\ClassLibraryConsultant.pdb
